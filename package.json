@@ -1,0 +1,12 @@
+{
+    "name": "mihir",
+    "private": true,
+    "version": "0.0.1",
+    "author": "Mihir Gore <mihirg@gmail.com>",
+    "description": "a simple web server that lints json strings",
+
+    "dependencies": {
+        "appdynamics": "4.1.10",
+        "express": "3.x"
+    }
+}
