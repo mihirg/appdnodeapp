@@ -6,7 +6,8 @@
     "description": "a simple web server that lints json strings",
 
     "dependencies": {
-        "appdynamics": "4.1.10",
-        "express": "3.x"
+        "appdynamics": "*",
+        "express": "3.x",
+        "sleep" : "5.1.0"
     }
 }
